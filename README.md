@@ -1,6 +1,5 @@
 # Neural Q-Learning Robot Explorer
 
-A neural network Q-learning framework for autonomous spatial exploration, evaluated across **640 episodes** in 2D grid worlds and 3D volumetric environments. All variants achieved **EXCELLENT** performance ratings with coverage ranging from 85.46% to 92.40% and success rates of 85–100%.
 
 > Capstone project — Master of Science in Robotics, University of California Riverside, April 2026.
 
