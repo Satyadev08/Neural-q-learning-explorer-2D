@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+venv/
+.venv/
+env/
+.env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Note: .pt checkpoint files ARE tracked in this repo.
+# They are ~40MB each. If you hit GitHub's push limits,
+# consider using Git LFS:
+#   git lfs install
+#   git lfs track "*.pt"
+#   git add .gitattributes
